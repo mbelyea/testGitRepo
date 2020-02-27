@@ -1,1 +1,1 @@
-console.log('test js console')
+console.log('test js console');
